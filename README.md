@@ -1,5 +1,6 @@
 # resume
 Latex Resume
+
 This resume template attempts to replicate the format of an example resume given by Columbia University:
 
 https://www.careereducation.columbia.edu/resources/tipsheets/resumes-and-cvs-basic-resumes
